@@ -1,0 +1,16 @@
+.titulo{
+    color: green;
+}
+
+.descripcion{
+    color:red;
+}
+
+#imagen{
+    width: 500px;
+}
+
+.link{
+    color: purple;
+    text-decoration-line: underline;
+}
